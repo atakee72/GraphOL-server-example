@@ -1,0 +1,58 @@
+{
+  "data": {
+    "comments": [
+      {
+        "id": "1",
+        "text": "Bu Ahmet'in yorumudur",
+        "post_id": "1",
+        "user": {
+          "id": "2",
+          "fullName": "Ahmet Günal"
+        },
+        "post": {
+          "id": "1",
+          "title": "Mehmet'in gönderisi"
+        }
+      },
+      {
+        "id": "2",
+        "text": "Mehmet'in yorumudur",
+        "post_id": "1",
+        "user": {
+          "id": "1",
+          "fullName": "Mehmet Seven"
+        },
+        "post": {
+          "id": "1",
+          "title": "Mehmet'in gönderisi"
+        }
+      },
+      {
+        "id": "3",
+        "text": "foo bar",
+        "post_id": "2",
+        "user": {
+          "id": "2",
+          "fullName": "Ahmet Günal"
+        },
+        "post": {
+          "id": "2",
+          "title": "Mehmet'in diger gönderisi"
+        }
+      },
+      {
+        "id": "4",
+        "text": "foo bar baz",
+        "post_id": "3",
+        "user": {
+          "id": "1",
+          "fullName": "Mehmet Seven"
+        },
+        "post": {
+          "id": "3",
+          "title": "Ahmet'in gönderisi"
+        }
+      }
+    ]
+  }
+}
